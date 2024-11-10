@@ -1,0 +1,12 @@
+<!--
+SPDX-FileCopyrightText: 2012 Apollic Software, LLC <contact@tent.io>
+
+SPDX-License-Identifier: LicenseRef-AllRightsReserved
+-->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+<title>ds-tent</title>
+<path fill="none" stroke="#000" stroke-width="0.336" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" d="M15.038 5.346l-14.242 21.214q-0.080 0.121 0.068 0.121h14.143q0.108 0 0.108-0.11v-21.201q0-0.139-0.077-0.024"></path>
+<path fill="none" stroke="#000" stroke-width="0.336" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" d="M21.926 24.75c0.762 0.627 1.737 1.286 2.716 1.52 2.166 0.517 4.073 0.462 6.517 0.389q0.113-0.004 0.051-0.097l-14.247-21.221q-0.049-0.073-0.051 0.015c-0.093 5.86 0.038 15.303 5.014 19.395"></path>
+<path d="M0.796 26.56l14.242-21.214q0.077-0.115 0.077 0.024v21.201q0 0.11-0.108 0.11h-14.143q-0.148 0-0.068-0.121z"></path>
+<path d="M21.926 24.75c-4.976-4.092-5.107-13.535-5.014-19.395q0.002-0.088 0.051-0.015l14.247 21.221q0.062 0.093-0.051 0.097c-2.444 0.073-4.351 0.128-6.517-0.389-0.979-0.234-1.954-0.893-2.716-1.52z"></path>
+</svg>

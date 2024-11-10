@@ -1,0 +1,9 @@
+<!--
+SPDX-FileCopyrightText: Copyright © 2017-2023, Mike Macgirvin <mike@macgirvin.com>
+
+SPDX-License-Identifier: CC0-1.0
+-->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+<title>ds-redmatrix</title>
+<path d="M16-0c8.837 0 16 7.163 16 16s-7.163 16-16 16c-8.837 0-16-7.163-16-16s7.163-16 16-16zM15.774 4.003h-3.69l-0.879 5.482h-3.971v3.479h3.374l-0.808 5.061h-3.971v3.479h3.409l-1.019 6.221h3.69l1.019-6.221h4.042l-1.019 6.221h3.69l1.019-6.221h3.796v-3.479h-3.233l0.808-5.061h3.831v-3.479h-3.233l0.879-5.482h-3.69l-0.879 5.482h-4.042l0.879-5.482zM18.34 12.965l-0.808 5.061h-4.042l0.808-5.061h4.042z"></path>
+</svg>

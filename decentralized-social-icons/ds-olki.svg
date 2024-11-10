@@ -1,0 +1,8 @@
+<!--- SPDX-FileCopyrightText: 2019 Pierre-Antoine Rault <par@rigelk.eu>
+
+SPDX-License-Identifier: AGPL-3.0-or-later -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+<title>ds-olki</title>
+<path d="M16-0c-8.837 0-16 7.163-16 16s7.163 16 16 16c8.837 0 16-7.163 16-16-0.010-8.832-7.168-15.99-16-16z"></path>
+<path d="M23.588 1.918c5.004 2.705 8.404 7.996 8.411 14.082l-0.001-0.12c-0.039 3.37-1.129 6.488-2.959 9.040-1.276 0.452-2.621 0.682-3.975 0.68-6.565 0-11.889-5.322-11.889-11.887 0-6.053 4.525-11.049 10.377-11.791z"></path>
+</svg>

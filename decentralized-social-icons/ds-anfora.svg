@@ -1,0 +1,11 @@
+<!--
+SPDX-FileCopyrightText: 2021-2023 Yábir García Benchakhtir <yabirg@protonmail.com>
+
+SPDX-License-Identifier: LicenseRef-AllRightsReserved
+-->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+<title>ds-anfora</title>
+<path d="M5.248 6.942l7.297-1.287c0.56-0.099 1.095 0.275 1.193 0.835s-0.275 1.094-0.836 1.193l-2.061 0.363 0.464 2.633c2.755 1.009 6.65 3.129 7.2 6.248 0.156 0.885 0.184 1.943 0.098 3.081l-10.717 1.89-2.637-14.957z"></path>
+<path d="M26.376 17.778l1.968-11.163-4.063-0.716-0.43-2.437 7.283 1.284-3.528 20.010z"></path>
+<path d="M0.866 3.956l22.438-3.956 4.945 28.044-22.438 3.956-4.945-28.044zM3.599 5.788l3.132 17.761 17.763-3.132-3.132-17.761-17.763 3.132z"></path>
+</svg>

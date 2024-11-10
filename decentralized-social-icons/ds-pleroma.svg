@@ -1,0 +1,9 @@
+<!--
+SPDX-FileCopyrightText: Copyright © 2019-Present, Pleroma Team <https://pleroma.social>
+
+SPDX-License-Identifier: AGPL-3.0-only
+-->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+<title>ds-pleroma</title>
+<path d="M4.008 1.097q-1.192 0-2.051 0.859t-0.859 2.051v23.985q0 1.227 0.859 2.069t2.051 0.842h23.985q1.192 0 2.051-0.842t0.859-2.069v-23.985q0-1.192-0.859-2.051t-2.051-0.859h-23.985zM11.266 5.936h3.436v20.163h-5.014v-18.62q0-0.631 0.456-1.087t1.122-0.456zM17.228 5.936h5.084v8.486q0 0.666-0.456 1.122t-1.122 0.456h-3.506v-10.064zM17.228 21.085h5.084v3.436q0 0.666-0.456 1.122t-1.122 0.456h-3.506v-5.014z"></path>
+</svg>

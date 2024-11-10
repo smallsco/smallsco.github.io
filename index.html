@@ -24,7 +24,8 @@
         p { color: #fff; font-family: 'PT Sans', sans-serif; font-size: 16px; line-height: 24px; margin-bottom: 22px; -webkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px #000000; }
         a { color: #fff; font-weight: bold; text-decoration: none; border-bottom: 1px solid rgba(255,255,255,0.3); }
         a:hover { color: #ffcc00; border-bottom: 1px solid rgba(255,255,255,1); }
-        #about { width: 360px; padding: 25px; margin: 50px auto 50px 50px !important; background-color:rgb(0,0,0); background-color:rgba(0,0,0,0.75); }
+        #about { width: 360px; padding: 25px; margin: 25px auto 25px 50px !important; background-color:rgb(0,0,0); background-color:rgba(0,0,0,0.75); border-radius: 25px; }
+        #photoinfo { width: 360px; padding: 25px 25px 1px 25px; margin: 25px auto 25px 50px !important; background-color:rgb(0,0,0); background-color:rgba(0,0,0,0.75); border-radius: 25px; }
         h1 { color: #fff; font-family: 'PT Sans', sans-serif; font-weight: 300; margin-bottom: 20px; line-height: 130%; text-shadow: 1px 1px 1px #000000; }
         ul#connect{ white-space: nowrap; width: 400px; }
         #connect li { display: inline; list-style-type: none; }
@@ -32,6 +33,7 @@
         #connect a:link,#navlist a:visited { text-decoration: none; opacity:0.6; border-style: none; }
         #connect a:hover { text-decoration: none; opacity:1; border-style: none; }
         #connect img { border: none; }
+        #connect img.social-svg { width: 32px; height: 32px; filter: invert(98%) sepia(3%) saturate(272%) hue-rotate(347deg) brightness(116%) contrast(100%); }
         @media (max-width: 767px) {
             #about { position: relative; width: auto; padding: 20px; margin: 0 !important; }
             background-image { opacity: 0.2; }
@@ -46,24 +48,31 @@
 <div id="about">
     <h1>Scott Small</h1>
     
-    <p>Scott is a senior developer at <a href="https://www.semaphoresolutions.com/">Semaphore Solutions</a>, a genomics software provider based out of Victoria, British Columbia, Canada. He has over fifteen years experience as a web developer, having previously worked in the digital publishing, higher education, performance marketing, and travel industries.</p>
+    <p>Scott is a senior developer and team lead at <a href="https://www.semaphoresolutions.com/"  rel="nofollow">Semaphore Solutions</a>, a genomics labratory services provider based out of Victoria, British Columbia, Canada. He has over twenty years experience as a systems developer, having previously worked in the digital publishing, higher education, performance marketing, and travel industries.</p>
 
-    <p>When he's not hacking away at work, or on a side project, he fuels a passion for travel. Having experienced four continents, and over twenty-six countries (as of 2020), he believes strongly in the mantra "the journey is the reward".</p>
+    <p>When he's not hacking away at work, or on a side project, he fuels a passion for travel. Having experienced four continents, and over twenty-six countries, he believes strongly in the mantra "the journey is the reward".</p>
 
-    <p>His other interests include: camping, coffee, dogs, gaming, hiking, reading, singing, and table tennis.</p>
+    <p>His other interests include: camping, coffee, dogs, gaming, reading, singing, table tennis, and vintage technology.</p>
 
-    <!-- Social Circles Icons - credit to Robby Designs -->
-    <!-- http://robby-designs.deviantart.com/art/Socialcircles-Free-social-icons-circular-347921678 -->
+    <!-- Material Design Icons v7.4.47 - https://github.com/Templarian/MaterialDesign-SVG -->
+    <!-- Decentralized Social Icons v1.0 - https://codeberg.org/WeDistribute/decentralized-social-icons -->
     <ul id="connect">
-        <li><a href="http://github.com/smallsco"><img src="social-circles/32/github32.png"></a></li>
-        <li><a href="http://open.spotify.com/user/smallsco"><img src="social-circles/32/spotify32.png"></a></li>
-        <li><a href="http://oldbytes.space/@smallsco"><img src="social-circles/32/twitter32.png"></a></li>
+        <li><a href="http://github.com/smallsco"><img class="social-svg" src="material-design-icons/github.svg" alt="GitHub"></a></li>
+        <li><a href="http://ca.linkedin.com/in/smallsco"><img class="social-svg" src="material-design-icons/linkedin.svg" alt="LinkedIn"></a></li>
+        <li><a href="http://oldbytes.space/@smallsco"><img class="social-svg" src="decentralized-social-icons/ds-mastodon.svg" alt="Mastodon"></a></li>
+        <li><a href="http://open.spotify.com/user/smallsco"><img class="social-svg" src="material-design-icons/spotify.svg" alt="Spotify"></a></li>
     </ul>
 
 </div>
 
+<div id="photoinfo">
+    <p>📷 <a href="https://havanaphotographyservice.com/" rel="nofollow">Natasha Forcade Gómez and Adrián Lamela Aragonés</a> for <a href="https://www.flytographer.com/" rel="nofollow">Flytographer</a></p>
+
+    <p>🌎 Castillo de los Tres Reyes Magos del Morro, Havana, Cuba</p>
+</div>
+
 <!--include jquery & backstretch-->
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script type="text/javascript" src="jquery.backstretch.min.js"></script>
 <script type="text/javascript">
 $(function(){

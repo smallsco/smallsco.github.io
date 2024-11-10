@@ -1,0 +1,10 @@
+<!--
+SPDX-FileCopyrightText: Copyright © 2010-present, Diaspora Inc <team@diasporafoundation.org>
+
+SPDX-License-Identifier: LicenseRef-AllRightsReserved
+-->
+<!-- Branding Guidedlines: https://wiki.diasporafoundation.org/Branding -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+<title>ds-diaspora</title>
+<path d="M16.099 1.25q-3.437 0-3.455 0.054t-0.054 4.905-0.054 4.941-0.072 0.090-4.815-1.557-4.78-1.522-1.074 3.365-1.020 3.365l8.306 2.757q0.752 0.286 0.752 0.358t-2.846 4.207-2.846 4.171 2.846 2.023 2.882 1.987 2.9-3.938 2.936-3.938 1.468 1.969l2.972 4.117q1.54 2.148 1.575 2.148t2.846-2.076 2.828-2.112-2.721-4.028-2.721-4.064 4.636-1.629 4.636-1.575-1.003-3.365-1.056-3.383-4.583 1.504-4.601 1.54-0.090-0.269-0.036-1.379l-0.107-3.867q-0.143-4.762-0.179-4.78t-3.473-0.018z"></path>
+</svg>
